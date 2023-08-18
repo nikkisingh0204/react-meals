@@ -1,5 +1,5 @@
 # Simple react food order app
-   Demo app which uses Handlind side effects, using reducers, fragments, context API and react hooks.
+   Demo app which uses Handling side effects, using reducers, fragments, context API and react hooks.
 ## Available Scripts
 
 In the project directory, you can run the following:
